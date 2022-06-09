@@ -7,16 +7,25 @@
 - Seeking furthur study and practical experience in informatics fields for contributing the world.
 
 ### Skills and Experiences
-<skills>
-<cp> Competitive Programming </cp>
+
+<details>
+<summary>Competitive Programming</summary>
+
 - Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
+</details>
 
-<cs> Computer Science </cs>
-- Done several Data Analysis and Machine Learning projects 
+<details>
+<summary>Computer Science</summary>
 
-<web> Web Development </web>
-- Still learning basics T_T
-</skills>
+- Done several Data Analysis and Machine Learning projects (You can find them in my public repos)
+</details>
+
+<details>
+<summary>Web Development</summary>
+
+- Still learning basics (mostly backend T_T)
+</details>
+
 
 
 ## Personal Infomation
@@ -32,28 +41,9 @@
 [![myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Nacnano)
 
 
-### Statistics
+### Statistics 
+#### Note: not included private repositories
 ![Nacnano's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=radical)
 
-![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical)
-
-## Wakatime
-[![wakatime](https://wakatime.com/badge/user/7b85cf35-1e8b-4428-aed5-467d40e6e916.svg)](https://wakatime.com/@nacnano)
-
-
-
-
-<!--
-**Nacnano/nacnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Note: uncleared Jupyter files cause massive storage issues T_T
+![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10)
