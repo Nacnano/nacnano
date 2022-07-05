@@ -17,15 +17,15 @@
 <details>
 <summary>Computer Science</summary>
 
-- Done several Data Analysis and Machine Learning projects (You can find them in my public repos)
+- Done several Data Analysis and Machine Learning projects (You can find them in my repositories)
+- Learning to become Data Engineer (trying to do a data warehouse)
 </details>
 
 <details>
 <summary>Web Development</summary>
 
-- Still learning basics (mostly backend T_T)
+- Learning basics (beginner level)
 </details>
-
 
 
 ## Personal Infomation
@@ -42,8 +42,7 @@
 
 
 ### Statistics 
-#### Note: not included private repositories
+#### Note: Not included private repositories
 ![Nacnano's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=radical)
 
-#### Note: uncleared Jupyter files cause massive storage issues T_T
 ![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10)
