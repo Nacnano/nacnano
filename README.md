@@ -41,8 +41,13 @@
 [![myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Nacnano)
 
 
-### Statistics 
+### Github Statistics 
 #### Note: Not included private repositories
 ![Nacnano's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=radical)
 
 ![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10)
+
+### Wakatime Statistics
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+
