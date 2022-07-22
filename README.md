@@ -1,9 +1,10 @@
-# Welcome to my Github profile!
+# Welcome to my Github profile
 
 ## Brief Introduction
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
-- An adaptive student specialize in programming, mathematics ,and coordinating projects with excellent responsibility and problem-solving skills. 
+
+- An adaptive student specialize in programming, mathematics ,and coordinating projects with excellent responsibility and problem-solving skills.
 - Seeking furthur study and practical experience in informatics fields for contributing the world.
 
 ### Skills and Experiences
@@ -12,6 +13,7 @@
 <summary>Competitive Programming</summary>
 
 - Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
+
 </details>
 
 <details>
@@ -19,14 +21,15 @@
 
 - Done several Data Analysis and Machine Learning projects (You can find them in my repositories)
 - Learning to become Data Engineer (trying to do a data warehouse)
+
 </details>
 
 <details>
 <summary>Web Development</summary>
 
 - Learning basics (beginner level)
-</details>
 
+</details>
 
 ## Personal Infomation
 
@@ -40,9 +43,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chotpisit-adunsehawat-b68912210/)
 [![myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Nacnano)
 
+### Github Statistics
 
-### Github Statistics 
 #### Note: Not included private repositories
+
 ![Nacnano's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=radical)
 
 ![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10)
