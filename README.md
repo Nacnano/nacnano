@@ -49,5 +49,6 @@
 
 ### Wakatime Statistics
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/c2713806-dd52-45eb-a88b-5705edc73874.svg)](https://wakatime.com/@Nacnano)
 
+[![wakatime](https://wakatime.com/share/@Nacnano/5ac7c52e-5639-4c34-b43b-2beebfb74ce0.png)](https://wakatime.com/@Nacnano)
