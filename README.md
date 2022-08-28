@@ -10,7 +10,7 @@
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2022
 
-### Skills and Experiences
+### (Plan-to-have) Skills and Experiences
 
 <details>
 <summary>Competitive Programming</summary>
@@ -28,8 +28,14 @@
     - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
 note-taking from multimedia using a machine
 learning model to enhance learning efficiency
-    - [GFinder](https://github.com/Nacnano/IMMC-2021) : a 5 Days project for International Mathematical Modeling Competition
+
+    - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
+
     - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
+</details>
+
+<details>
+<summary>Data Engineering</summary>
 
 - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
 
