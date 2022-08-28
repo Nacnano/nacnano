@@ -13,23 +13,22 @@
 <summary>Competitive Programming</summary>
 
 - Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
-- Qualified as the first reserve for participating in the 17th Thailand Olympiad in Informatics (สำรองผู้แทนศูนย์อันดับหนึ่ง in Thai) from POSN Computer Olympiad Camp held by MWIT
-- Qualified as the second reserve for participating in the 16th Thailand Olympiad in Informatics (สำรองผู้แทนศูนย์อันดับสอง in Thai) from POSN Computer Olympiad Camp held by MWIT
+- Qualified as the second reserve and the first reserve for participating in the 16th and 17th Thailand Olympiad in Informatics respectively (สำรองผู้แทนศูนย์อันดับหนึ่งและสอง in Thai) from POSN Computer Olympiad Camp held by Mahidol Wittayanusorn School
 
 </details>
 
 <details>
 <summary>Computer Science</summary>
 
-- Done several Data Analysis and Machine Learning projects (You can find them in my repositories)
-- Learning to become Data Engineer (trying to do a data warehouse)
+- Done several Data Analysis and Machine Learning projects (Add links soon...)
+- Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
 
 </details>
 
 <details>
 <summary>Web Development</summary>
 
-- Learning basics (beginner level)
+- Learning to become a Full Stack Developer (mostly basics)
 
 </details>
 
