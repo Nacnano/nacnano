@@ -4,8 +4,11 @@
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
 
-- An adaptive student specialize in programming, mathematics ,and coordinating projects with excellent responsibility and problem-solving skills.
-- Seeking furthur study and practical experience in informatics fields for contributing the world.
+- An adaptive student specialize in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills
+
+- Seeking furthur study and practical experience in informatics fields for contributing the world
+
+- Currently studying Computer Engineering at Chulalongkorn University Class of 2022
 
 ### Skills and Experiences
 
@@ -28,7 +31,7 @@
 <details>
 <summary>Web Development</summary>
 
-- Learning to become a Full Stack Developer (mostly basics)
+- Learning to become a Full Stack Developer (Mostly basics)
 
 </details>
 
