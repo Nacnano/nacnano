@@ -34,12 +34,7 @@ learning model to enhance learning efficiency
     - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
 </details>
 
-<details>
-<summary>Data Engineering</summary>
-
-- Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
-
-</details>
+    - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
 
 <details>
 <summary>Web Development</summary>
