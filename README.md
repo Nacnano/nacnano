@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>Computer Science</summary>
+<summary>Data Science</summary>
 
 - Done several Machine Learning and Data Analysis projects
     - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
