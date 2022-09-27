@@ -32,9 +32,9 @@ learning model to enhance learning efficiency
     - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
 
     - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
-</details>
 
-- Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
+    - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
+</details>
 
 <details>
 <summary>Web Development</summary>
