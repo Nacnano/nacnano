@@ -8,7 +8,7 @@
 
 - Seeking furthur study and practical experience in informatics fields for contributing the world
 
-- Currently studying Computer Engineering at Chulalongkorn University Class of 2022
+- Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
 ### (Plan-to-have) Skills and Experiences
 
