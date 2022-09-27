@@ -13,7 +13,7 @@
 ### (Plan-to-have) Skills and Experiences
 
 <details>
-<summary>Competitive Programming</summary>
+<summary>Computer Science</summary>
 
 - Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
 
