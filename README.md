@@ -10,19 +10,10 @@
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
-### (Plan-to-have) Skills and Experiences
+### Skills and Experiences
 
 <details>
-<summary>Computer Science</summary>
-
-- Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
-
-- Qualified as the second reserve and the first reserve for participating in the 16th and 17th Thailand Olympiad in Informatics respectively (สำรองผู้แทนศูนย์อันดับหนึ่งและสอง in Thai) from POSN Computer Olympiad Camp held by Mahidol Wittayanusorn School
-
-</details>
-
-<details>
-<summary>Data Science and Engineering</summary>
+<summary>Data Science</summary>
 
 - Done several Machine Learning and Data Analysis projects
     - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
@@ -33,7 +24,16 @@ learning model to enhance learning efficiency
 
     - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
 
-    - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
+- Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
+</details>
+
+<details>
+<summary>Competitive Programming</summary>
+
+- Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
+
+- Qualified as the second reserve and the first reserve for participating in the 16th and 17th Thailand Olympiad in Informatics respectively (สำรองผู้แทนศูนย์อันดับหนึ่งและสอง in Thai) from POSN Computer Olympiad Camp held by Mahidol Wittayanusorn School
+
 </details>
 
 <details>
