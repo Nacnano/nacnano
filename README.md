@@ -6,7 +6,7 @@
 
 - An adaptive student specialize in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills
 
-- Seeking furthur study and practical experience in informatics fields for contributing the world
+- Seeking further study and practical experience in informatics fields for contributing the world
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
