@@ -41,6 +41,8 @@ learning model to enhance learning efficiency
 
 - [CU Get Rekt](https://cugetrekt.vercel.app) ([Github](https://github.com/nacnano/cugetrekt)) : Created and maintained its Backend using Nestjs and Prisma
 
+- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief experiences in almost every fields
+
 - Learning to become a Full Stack Developer (Mostly basics)
 
 </details>
