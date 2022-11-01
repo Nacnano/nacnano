@@ -39,7 +39,7 @@ learning model to enhance learning efficiency
 <details>
 <summary>Web Development</summary>
 
-- [CU Get Rekt](https://cugetrekt.vercel.app) : Created and maintained its Backend using Nestjs and Prisma
+- [CU Get Rekt](https://cugetrekt.vercel.app) ([Github](https://github.com/nacnano/cugetrekt)) : Created and maintained its Backend using Nestjs and Prisma
 
 - Learning to become a Full Stack Developer (Mostly basics)
 
