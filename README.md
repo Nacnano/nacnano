@@ -45,7 +45,7 @@
 
 - [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
 
-- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences in almost every side in web development
+- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences various aspects in web development
 
 </details>
 
