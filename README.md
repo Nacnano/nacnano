@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile
- 
+
 ## Brief Introduction
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
@@ -15,13 +15,13 @@
 <details>
 <summary>Data Science</summary>
 
-- Done several Machine Learning and Data Analysis projects - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
-  note-taking from multimedia using a machine
-  learning model to enhance learning efficiency
+- Done several Machine Learning and Data Analysis projects
 
-      - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
+  - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
 
-      - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
+  - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
+
+  - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
 
 - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
 
@@ -39,11 +39,13 @@
 <details>
 <summary>Web Development</summary>
 
-- [CU Get Rekt](https://cugetrekt.vercel.app) ([Github](https://github.com/nacnano/cugetrekt)) : Created and maintained its Backend using Nestjs and Prisma
+- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)) : Won the first place in Thinc's 10 Days in 10 Years Project. My role was to designed and created its Backend using Nestjs and Prisma, setted up the database.
 
-- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief experiences in almost every fields
+- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub])(https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
 
-- Learning to become a Full Stack Developer (Mostly basics)
+- [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
+
+- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences in almost every side in web development
 
 </details>
 
