@@ -15,16 +15,16 @@
 <details>
 <summary>Data Science</summary>
 
-- Done several Machine Learning and Data Analysis projects
-    - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
-note-taking from multimedia using a machine
-learning model to enhance learning efficiency
+- Done several Machine Learning and Data Analysis projects - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in
+  note-taking from multimedia using a machine
+  learning model to enhance learning efficiency
 
-    - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
+      - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
 
-    - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
+      - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
 
 - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
+
 </details>
 
 <details>
@@ -61,14 +61,14 @@ learning model to enhance learning efficiency
 
 ### Github Statistics
 
-#### Note: Not included private repositories
+![Nacnano's GitHub stats](https://github-readme-stats-nacnano.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=dark)
 
-![Nacnano's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=radical)
-
-![Nacnano's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10)
+<!-- ![Nacnano's language stats](https://github-readme-stats-nacnano.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10) -->
 
 ### Wakatime Statistics
 
 [![wakatime](https://wakatime.com/badge/user/c2713806-dd52-45eb-a88b-5705edc73874.svg)](https://wakatime.com/@Nacnano)
 
-[![wakatime](https://wakatime.com/share/@Nacnano/5ac7c52e-5639-4c34-b43b-2beebfb74ce0.png)](https://wakatime.com/@Nacnano)
+<div style="width: 400px; height: 300px; border-radius: 30px;  overflow: hidden; align:center" >
+    <img src="https://wakatime.com/share/@Nacnano/5ac7c52e-5639-4c34-b43b-2beebfb74ce0.png" />
+</div>
