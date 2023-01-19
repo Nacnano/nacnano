@@ -41,7 +41,7 @@
 
 - [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)) : Won the first place in Thinc's 10 Days in 10 Years Project. My role was to designed and created its Backend using Nestjs and Prisma, setted up the database.
 
-- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub])(https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
+- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
 
 - [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
 
