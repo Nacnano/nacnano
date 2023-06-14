@@ -23,7 +23,7 @@
 
 - [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences various aspects in web development
 
-- [Wang](https://wang.in.th) Internship (ongoing) : Full Stack Developer using MERN stack
+- [Wang](https://wang.in.th) Internship (Currently Ongoing) : Full Stack Developer using MERN stack
 
 </details>
 
