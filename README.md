@@ -13,6 +13,21 @@
 ### Skills and Experiences
 
 <details>
+<summary>Web Development</summary>
+
+- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)) : Won the first place in Thinc's 10 Days in 10 Years Project. My role was to designed and created its Backend using Nestjs and Prisma, setted up the database.
+
+- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
+
+- [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
+
+- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences various aspects in web development
+
+- [Wang](https://wang.in.th) Internship (ongoing) : Full Stack Developer using MERN stack
+
+</details>
+
+<details>
 <summary>Data Science</summary>
 
 - Done several Machine Learning and Data Analysis projects
@@ -33,21 +48,6 @@
 - Achieved Silver Medal from the ([Virtual](https://www.youtube.com/playlist?list=PLqrB1A79hVhEQS91WLbga8_3CntUG0Fm8)) 16th Thailand Olympiad in Informatics
 
 - Qualified as the second reserve and the first reserve for participating in the 16th and 17th Thailand Olympiad in Informatics respectively (สำรองผู้แทนศูนย์อันดับหนึ่งและสอง in Thai) from POSN Computer Olympiad Camp held by Mahidol Wittayanusorn School
-
-</details>
-
-<details>
-<summary>Web Development</summary>
-
-- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)) : Won the first place in Thinc's 10 Days in 10 Years Project. My role was to designed and created its Backend using Nestjs and Prisma, setted up the database.
-
-- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
-
-- [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
-
-- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences various aspects in web development
-
-- [Wang](https://wang.in.th) Internship (ongoing) : Full Stack Developer using MERN stack
 
 </details>
 
