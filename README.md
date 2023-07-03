@@ -4,9 +4,9 @@
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
 
-- An adaptive student specialize in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills
+- An adaptive student specializing in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills
 
-- Seeking further study and practical experience in informatics fields for contributing the world
+- Seeking further study and practical experience in informatics fields to contribute to the world
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
@@ -15,15 +15,15 @@
 <details>
 <summary>Web Development</summary>
 
-- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)) : Won the first place in Thinc's 10 Days in 10 Years Project. My role was to designed and created its Backend using Nestjs and Prisma, setted up the database.
+- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)): Won first place in Thinc's 10 Days in 10 Years Project. My role was to design and create its Backend using Nestjs and Prisma and set up the database.
 
-- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)) : A 5 days Thinc and Cleverse's Hack to School Project. My role was to created its Backend using Nestjs and Prisma, Deployed using Docker and Google Cloud Run. After this project, I became more familiar with complex project structure.
+- [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)): A 5 days Thinc and Cleverse's Hack to School Project. My role was to create its Backend using Nestjs and Prisma and Deployed it using Docker and Google Cloud Run. After this project, I became more familiar with complex project structures.
 
 - [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
 
-- [Monkey Everyday](https://monkeyeveryday.com) Internship : Gained brief knowledge and experiences various aspects in web development
+- [Monkey Everyday](https://monkeyeveryday.com) Internship: Gained brief knowledge and experiences in various aspects of web development
 
-- [Wang](https://wang.in.th) Internship (Currently Ongoing) : Full Stack Developer using MERN stack
+- [Wang](https://wang.in.th) Internship (Currently Ongoing): Full Stack Developer using MERN stack
 
 </details>
 
@@ -32,11 +32,11 @@
 
 - Done several Machine Learning and Data Analysis projects
 
-  - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-) : A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
+  - [School Research Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-): A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
 
   - [Mathematical Model (GFinder)](https://github.com/Nacnano/IMMC-2021) : A 5 days project for International Mathematical Modeling Competition
 
-  - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project) : A project for analysing Thailand's logistic system
+  - [School Mini-Project](https://github.com/Nacnano/thailand-s-logictic-system-analysis-project): A project for analysing Thailand's logistic system
 
 - Learning to become a Data Engineer (Data Warehouse structures and Data Pipelines)
 
