@@ -4,13 +4,11 @@
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
 
-- An adaptive student specializing in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills
-
-- Seeking further study and practical experience in informatics fields to contribute to the world
+- An adaptive student specializing in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills who are seeking further study and practical experience in informatics fields to contribute to the world
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
-### Skills and Experiences
+### Skills and Experiences [(resume)](https://resume-nacnano.vercel.app/)
 
 <details>
 <summary>Web Development</summary>
