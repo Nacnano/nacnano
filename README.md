@@ -1,10 +1,9 @@
-# Hi!, I am Nacnano
+## Hi!, I am Nacnano
 
-- A curious student with coding and mathematics skills who is seeking to contribute to the world
-- I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
-- Currently studying Computer Engineering at Chulalongkorn University Class of 2026
+- #### A curious student with coding and mathematics skills who is seeking to contribute to the world.
+- #### I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 
-## Skills and Experiences
+## Skills
 
 ### Languages
 
@@ -14,7 +13,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Libraries/Framworks
+### Libraries and Framworks
 
 ![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
