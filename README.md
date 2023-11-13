@@ -1,7 +1,8 @@
 ## Hi!, I am Nacnano
 
-- #### A curious student with coding and mathematics skills who is seeking to contribute to the world.
-- #### I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
+- <h4> A curious student with coding and mathematics skills who is seeking to contribute to the world. <h4>
+
+- I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 
 ## Skills
 
