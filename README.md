@@ -1,14 +1,10 @@
-# Welcome to my GitHub profile
+## Hi!, I am Nacnano
 
-## Brief Introduction
+- A curious student with coding and mathematics skills who is seeking to contribute to the world
 
-### Hi, I am Chotpisit Adunsehawat (Nac)
-
-- A curious student with coding and mathematics skills who are seeking to contribute the world
+- I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
-
-- View my resume ["Here"](https://resume-nacnano.vercel.app/).
 
 ### Skills and Experiences
 
