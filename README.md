@@ -4,11 +4,13 @@
 
 ### Hi, I am Chotpisit Adunsehawat (Nac)
 
-- An adaptive student specializing in programming, mathematics, and coordinating projects with excellent responsibility and problem-solving skills who are seeking further study and practical experience in informatics fields to contribute to the world
+- A curious student with coding and mathematics skills who are seeking to contribute the world
 
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
-### Skills and Experiences [(resume)](https://resume-nacnano.vercel.app/)
+- View my resume ["Here"](https://resume-nacnano.vercel.app/).
+
+### Skills and Experiences
 
 <details>
 <summary>Web Development</summary>
@@ -20,7 +22,7 @@
 - [MWIT29-Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : Currently working in Process
 
 - [Monkey Everyday](https://monkeyeveryday.com) Internship: Gained brief knowledge and experiences in various aspects of web development
-  
+
 - [Wang](https://www.wang.in.th) Internship: Full Stack Developer using MERN stack
 
 </details>
@@ -61,16 +63,17 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chotpisit-adunsehawat-b68912210/)
 [![myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Nacnano)
 
-### Github Statistics
+### Statistics
 
 ![Nacnano's GitHub stats](https://github-readme-stats-nacnano.vercel.app/api?username=nacnano&show_icons=true&count_private=true&theme=dark)
 
 <!-- ![Nacnano's language stats](https://github-readme-stats-nacnano.vercel.app/api/top-langs/?username=nacnano&layout=compact&theme=radical&langs_count=10) -->
 
-### Wakatime Statistics
+<!-- ### Wakatime Statistics -->
 
 [![wakatime](https://wakatime.com/badge/user/c2713806-dd52-45eb-a88b-5705edc73874.svg)](https://wakatime.com/@Nacnano)
 
+<!--
 <div style="width: 400px; height: 300px; border-radius: 30px;  overflow: hidden; align:center" >
     <img src="https://wakatime.com/share/@Nacnano/5ac7c52e-5639-4c34-b43b-2beebfb74ce0.png" />
-</div>
+</div> -->
