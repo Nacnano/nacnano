@@ -1,7 +1,7 @@
 ## Hi!, I am Nacnano
 
 - A curious student with coding and mathematics skills who is seeking to contribute to the world
-- I like software engineering, mostly backend stuffs. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
+- I like software engineering, mostly backend stuff. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
 ## Skills
