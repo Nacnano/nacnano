@@ -4,6 +4,7 @@
 - I like software engineering, mostly backend stuff. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
+
 ## Skills
 
 ### Languages
