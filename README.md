@@ -4,7 +4,6 @@
 - I like software engineering, mostly backend stuff. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 
-
 ## Skills
 
 ### Languages
@@ -41,7 +40,7 @@
 - [Hack to School](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)): A 5 days Thinc and Cleverse's Hack to School Project. My role was to create its Backend and the CI/CD.
 - [MWIT29 Archive](https://mwit29-archive.vercel.app/) ([GitHub](https://github.com/nacnano/mwit29-archive)) : A platform for keeping high school memories with my friends (Working in Process)
 - [Computer Science Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-): A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
-- and many more
+- and many more... (See my [Repositories](https://github.com/Nacnano?tab=repositories) )
 
 ## Social Accounts
 
