@@ -2,8 +2,8 @@
 
 - A curious student with coding and mathematics skills who is seeking to contribute to the world
 - I like software engineering, mostly backend stuff.
-- If you are interested, you can view my [Resume](https://resume.nacnano.dev/).
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
+- If you are interested, you can view my [Resume](https://resume.nacnano.dev/).
 
 ## Skills
 
