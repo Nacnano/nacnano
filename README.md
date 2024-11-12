@@ -3,7 +3,8 @@
 - A curious student with coding and mathematics skills who is seeking to contribute to the world
 - I like software engineering, mostly backend stuff.
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
-- If you are interested, you can view my [Resume](https://resume.nacnano.dev/).
+- If you are interested in my projects, experiences, or skills, you can view my [Resume](https://resume.nacnano.dev/).
+- Feel free to contact me via the contacts below
 
 ## Skills
 
@@ -35,13 +36,14 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+<!--
 ## Projects
 
 - [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)): Won first place in Thinc's 10 Days in 10 Years Project. My role was to design and create its Backend using Nestjs with Prisma and set up the database.
 - [CU Intania Open House 2024](https://oph.chula.engineering/) ([GitHub](https://github.com/esc-chula/intania-openhouse-2024/)) : A website for Open House event at Faculty of Engineering, Chulalongkorn university used by over 9000 students. Designed and developed its workshop reservation features using NextJS for both frontend and backend and Firestore for its database
 - [E- learning website](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)): A 5 days Thinc and Cleverse's Hack to School Project. My role was to create its Backend using NestJS and its CI/CD.
 - [Computer Science Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-): A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
-- and many more... (See my [Repositories](https://github.com/Nacnano?tab=repositories))
+- and many more... (See my [Repositories](https://github.com/Nacnano?tab=repositories)) -->
 
 ## Social Accounts
 
