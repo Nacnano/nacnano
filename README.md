@@ -1,7 +1,8 @@
 ## Hi!, I am Nacnano
 
-- A curious student with coding and mathematics skills who is seeking to contribute to the world
-- I like software engineering, mostly backend stuff.
+### A curious student with coding and mathematics skills who is seeking to contribute to the world
+
+- I do Software Engineering (Full Stack), Data Science, and Data Engineering. Still learning new things
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 - If you are interested in my projects, experiences, or skills, you can view my [Resume](https://resume.nacnano.dev/).
 - Feel free to contact me via the contacts below
