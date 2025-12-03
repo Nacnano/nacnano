@@ -1,4 +1,4 @@
-## Hi!, I am Nacnano
+## Hi! I am Nacnano
 
 ### A curious student with coding and mathematics skills who is seeking to contribute to the world
 
