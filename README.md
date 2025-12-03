@@ -2,51 +2,12 @@
 
 ### A curious student with coding and mathematics skills who is seeking to contribute to the world
 
-- I do Software Engineering (Full Stack), Data Science, and Data Engineering. Still learning new things
+- I do Software Engineering (Full Stack), Data Science, AI Research, and a bit of DevOps and Data Engineering. Still learning new things
 - Currently studying Computer Engineering at Chulalongkorn University Class of 2026
 - If you are interested in my projects, experiences, or skills, you can view my [Resume](https://resume.nacnano.dev/).
 - Feel free to contact me via the contacts below
 
-## Skills
-
-### Languages
-
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Libraries and Framworks
-
-![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Tools
-
-![github-action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-<!--
-## Projects
-
-- [CU Get Rekt](https://cugetrekt.vercel.app) ([GitHub](https://github.com/nacnano/cugetrekt)): Won first place in Thinc's 10 Days in 10 Years Project. My role was to design and create its Backend using Nestjs with Prisma and set up the database.
-- [CU Intania Open House 2024](https://oph.chula.engineering/) ([GitHub](https://github.com/esc-chula/intania-openhouse-2024/)) : A website for Open House event at Faculty of Engineering, Chulalongkorn university used by over 9000 students. Designed and developed its workshop reservation features using NextJS for both frontend and backend and Firestore for its database
-- [E- learning website](https://hacktoschool-fryingchicken.vercel.app/) ([GitHub](https://github.com/thinc-org/hacktoschool-fryingchicken)): A 5 days Thinc and Cleverse's Hack to School Project. My role was to create its Backend using NestJS and its CI/CD.
-- [Computer Science Project](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-): A project for predicting and comparing learners' interest in note-taking from multimedia using a machine learning model to enhance learning efficiency
-- and many more... (See my [Repositories](https://github.com/Nacnano?tab=repositories)) -->
-
-## Social Accounts
+## Contacts
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chotpisit.adu@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nacnano)
