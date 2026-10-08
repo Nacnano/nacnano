@@ -4,6 +4,8 @@ I like coding and math. I'm curious about full-stack development, data science, 
 
 learning new things.
 
+If you'd like to know a little more about me, here's my [resume](https://resume.nacnano.dev/).
+
 Say hi through the links below :)
 
 ## Contact
