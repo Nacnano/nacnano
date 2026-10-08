@@ -1,20 +1,8 @@
 # Hi, I'm Nacnano 👋
 
-I work across full-stack software engineering, data science, and AI research, with interests in DevOps and data engineering.
+I like coding, math, and learning new things. I build full-stack apps and work on data science and AI research, with a bit of DevOps and data engineering too.
 
-I enjoy coding, mathematics, and learning new ways to build useful software.
-
-Explore my selected projects below, or visit my [resume](https://resume.nacnano.dev/) for more about my experience.
-
-## Selected projects
-
-- **[CU Get Rekt](https://github.com/nacnano/cugetrekt)** — Designed and built the backend with NestJS and Prisma, including database setup.
-- **[Hack to School](https://github.com/thinc-org/hacktoschool-fryingchicken)** — Built a NestJS and Prisma backend and deployed it with Docker and Google Cloud Run.
-- **[Note-taking research](https://github.com/Nacnano/predicting-and-comparing-learners-interest-in-note-taking-from-multimedia-using-a-machine-learning-)** — Used machine learning to predict and compare learners' interest in note-taking from multimedia.
-
-## Background
-
-- Computer Engineering at Chulalongkorn University, Class of 2026.
+You can find more about my work in my [resume](https://resume.nacnano.dev/), or say hi through the links below.
 
 ## Contact
 
