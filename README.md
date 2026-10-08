@@ -1,4 +1,4 @@
-# Hi, I'm Nacnano 👋
+# Hi, I'm Nacnano
 
 I like coding and math. I'm curious about full-stack development, data science, AI, and crypto/Web3, and I sometimes explore DevOps and data engineering too.
 
