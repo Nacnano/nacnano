@@ -2,7 +2,7 @@
 
 I like coding and math. I'm curious about full-stack development, data science, AI, and crypto/Web3, and I sometimes explore DevOps and data engineering too.
 
-learning new things.
+Still learning new things.
 
 If you'd like to know a little more about me, here's my [resume](https://resume.nacnano.dev/).
 
