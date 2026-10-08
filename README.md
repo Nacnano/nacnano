@@ -1,6 +1,8 @@
 # Hi, I'm Nacnano 👋
 
-I like coding, math, and learning new things. I build full-stack apps and work on data science and AI research, with a bit of DevOps and data engineering too.
+I like coding and math. I build full-stack apps and work on data science and AI research, with a bit of DevOps and data engineering too.
+
+I enjoy learning new things, whether it's a new tool, a different way to solve a problem, or a topic I haven't explored before. I like trying things out, asking questions, and learning as I go.
 
 You can find more about my work in my [resume](https://resume.nacnano.dev/), or say hi through the links below.
 
